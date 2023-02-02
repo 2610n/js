@@ -11,7 +11,7 @@ console.log(txt.indexOf('U')); //identifica o indice da letra ou numero dentro d
 
 console.log('Nome '.concat(txt).concat('!'));
 
-console.log(txt.replace(3, "a"));
+console.log(txt.replace(3, "a")); //idice e depois a letra para subistituição
 
 console.log(txtArray.split(',')) //definir o digito separador para trsformar o conjunto de palavraws em array
 
