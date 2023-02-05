@@ -7,7 +7,7 @@ console.log(txt.charAt(2));// retornar a letra de acrodo com a posição iniciad
 console.log(txt.charAt(4));// retornar campo vazio
 console.log(txt2.charCodeAt(1)); //codigo do unicode tabela ask
 console.log(txt.indexOf('c')); //identifica o indice da letra ou numero dentro de uma palavra 
-console.log(txt.indexOf('U')); //identifica o indice da letra ou numero dentro de uma palavra  -1
+console.log(txt.indexOf('')); //identifica o indice da letra ou numero dentro de uma palavra  -1
 
 console.log('Nome '.concat(txt).concat('!'));
 
